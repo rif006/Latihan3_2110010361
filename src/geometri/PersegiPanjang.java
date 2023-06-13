@@ -3,8 +3,9 @@ package geometri;
 
 
 public class PersegiPanjang {
-   private double panjang;
-   private double lebar;
+   double panjang;
+   double lebar;
+   
    
    
    public double luas(){
